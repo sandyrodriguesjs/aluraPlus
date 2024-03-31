@@ -141,3 +141,11 @@ body{
     color: var(--cinza-secundario);
     font-size: 14px;
 }
+
+.lista_link a:hover{
+    color: var(--botao-azul);
+}
+
+.lista_link a:active{
+    color: pink;
+}
